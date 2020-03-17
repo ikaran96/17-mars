@@ -8,7 +8,7 @@ if(a>b){
 }else {
     console.log(a+" est égal à "+b);
 }
-
+ 
 //exo 2
 var a=5;
 var b=10;
