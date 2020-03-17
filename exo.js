@@ -8,7 +8,7 @@ if(a>b){
 }else {
     console.log(a+" est égal à "+b);
 }
- 
+
 //exo 2
 var a=5;
 var b=10;
@@ -124,4 +124,4 @@ for(var i=0;i<10;i++){
     console.log("valeur : "+i+table[i]);
     res=res+table[i];
 }
-
+console.log(res);
